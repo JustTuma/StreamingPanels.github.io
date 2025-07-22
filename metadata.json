@@ -1,0 +1,6 @@
+{
+  "name": "Centro de Control de Cuentas",
+  "description": "Una aplicación para gestionar y vender perfiles de servicios de streaming, con funcionalidades para asociar clientes, seguir vencimientos y automatizar notificaciones.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
